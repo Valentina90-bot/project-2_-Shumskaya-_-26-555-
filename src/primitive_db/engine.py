@@ -1,5 +1,6 @@
 import prompt
 
+
 def welcome():
     print("\nПервая попытка запустить проект!\n")
     print("***")
