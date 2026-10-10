@@ -1,9 +1,4 @@
-#!/usr/bin/env python3
-
-from primitive_db.engine import run
-
-def main():
-    run()
+from primitive_db.engine import main
 
 if __name__ == "__main__":
     main()
